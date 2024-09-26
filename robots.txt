@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://asmispok.github.io/sitemap.asmispok.gz
+Sitemap: https://asmispok.github.io/app/sitemap.asmispok.gz
+Sitemap: https://asmispok.github.io/assets/sitemap.asmispok.gz
+Sitemap: https://asmispok.github.io/css/sitemap.asmispok.gz
+Sitemap: https://asmispok.github.io/data/sitemap.asmispok.gz
+Sitemap: https://asmispok.github.io/includes/sitemap.asmispok.gz
+Sitemap: https://asmispok.github.io/item/sitemap.asmispok.gz
+Sitemap: https://asmispok.github.io/src/sitemap.asmispok.gz
